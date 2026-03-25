@@ -74,7 +74,7 @@ Actualmente trabajo en entornos SaaS de alto volumen, gestionando sistemas que p
 
 * 📧 [miguelangelmozabarquilla@gmail.com](mailto:miguelangelmozabarquilla@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/mmoza
-* 🌐 Portfolio: (añadir cuando lo tengas)
+* 🌐 Portfolio: https://mmoza.github.io/es
 
 ---
 
