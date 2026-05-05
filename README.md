@@ -55,11 +55,6 @@ Actualmente trabajo en entornos SaaS de alto volumen, gestionando sistemas que p
 * 🏗️ `landing-construccion`
   Landing optimizada para sector construcción
 
-### 🟡 Contenido técnico
-
-* ✍️ `tech-articles`
-  Artículos sobre arquitectura, APIs e integraciones reales
-
 ---
 
 ## 📈 Actualmente trabajando en
