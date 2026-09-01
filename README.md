@@ -52,8 +52,8 @@ Actualmente trabajo en entornos SaaS de alto volumen, gestionando sistemas que p
 * 🌐 `pura-vida-web`
   Web para restaurante enfocada en conversión y experiencia de usuario
 
-* 🏗️ `landing-construccion`
-  Landing optimizada para sector construcción
+* 🏗️ `cycling-fantasy-game`
+  Juego real de Predicciones compatible con toda la temporada UCI de ciclismo en ruta
 
 ---
 
